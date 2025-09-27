@@ -1,1 +1,1 @@
-Hello, Qualcommes!
+HEllo, Hexlet! How are you?
